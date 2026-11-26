@@ -46,25 +46,15 @@ I am deeply passionate about exploring how software and hardware work together. 
 
 #### 1. 🚚 Role-Based Parcel Tracking Web Application
 A logistics and delivery management web platform featuring three distinct user roles with privacy-focused access control:
-* **User:** Track parcel statuses in real time and view proof-of-delivery photos.
-* **Transporter:** Update delivery statuses on the go and upload parcel photos directly to the system.
-* **Admin:** Monitor overall system operations across users and transporters while strictly restricting access to sensitive personal user data.
 
 #### 2. 🚤 Autonomous AI Trash-Collecting Boat & Water Monitoring System `[In Progress]`
 An IoT and AI-powered autonomous surface vehicle designed to clean narrow or chemically contaminated canals where manual cleanup is hazardous or inaccessible.
-* **Autonomous Cleanup:** Uses onboard AI and sensors to detect, navigate, and collect floating debris (e.g., plastic bottles, foam boxes) without human intervention.
-* **Real-Time Telemetry:** Continuously monitors water quality metrics, vessel status, and waste collection data, streaming updates to a client-facing web dashboard.
 
 #### 3. 💳 Mobile Banking Simulation App (Flutter)
 A cross-platform mobile application built with Flutter to study and replicate core traditional banking workflows.
-* **Core Transactions:** Supports deposits, withdrawals, and fund transfers via both account numbers and QR codes.
-* **Financial Utilities:** Includes a built-in tax calculator and integrates external APIs for live exchange rates and multi-currency conversion.
 
 #### 4. 🏪 Store Twin — 2.5D Retail Analytics & Edge AI `[In Progress]`
 A Python-based 2.5D Digital Twin platform for SME retail stores that leverages existing CCTV cameras and privacy-first **Edge AI** (processing video locally and transmitting only numerical metrics to the cloud) to solve the *"high foot traffic, low conversion"* problem:
-* **Mirror:** Tracks customer foot traffic, head orientation, and dwell time across specific store zones and shelf aisles.
-* **Simulate:** Allows store owners to rearrange shelf layouts virtually and forecast expected performance ranges before making physical changes.
-* **Learn:** Compares predicted outcomes against actual post-change sales data to continuously improve model accuracy.
 
 ---
 
